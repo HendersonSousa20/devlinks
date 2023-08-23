@@ -9,7 +9,7 @@ function togglemode() {
     img.setAttribute('src', './img/avatar-light.png')
  
   } else {
-    img.setAttribute("src", "./img/avatar.png.png")
+    img.setAttribute("src", "./img/avatar.png")
   }
 
   
