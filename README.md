@@ -5,7 +5,7 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 </p>
 
 <p align="center">
-  <img alt="projeto DevLinks" src="./img/cover.png" width="100%">
+ 
 </p>
 
 
